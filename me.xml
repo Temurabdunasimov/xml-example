@@ -16,3 +16,30 @@
         </user>
     </friend>
 </user>
+
+
+
+<gm>
+    <cars>
+        <car id="1">Malibu</car>
+        <car id="2">Cobalt</car>
+        <car id="3">Matiz</car>
+        <car id="4">ferrari</car>
+    </cars>
+    <colors>
+        <color type="black white red blue">
+            <id>1</id>
+            <id>2</id>
+            <id>3</id>
+        </color>
+        <color type="red">
+            <id>4</id>
+        </color>
+    </colors>
+    <prices>
+        <price car="1">34000$</price>
+        <price car="2">13000$</price>
+        <price car="3">5000$</price>
+        <price car="4">500000$</price>
+    </prices>
+</gm>
