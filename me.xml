@@ -5,4 +5,14 @@
         <nomi>TATU</nomi>
     <facultet>Economics</facultet>
     </education>
+    <friend>
+        <user>
+            <ism>Bobur</ism>
+        <sharif>Qobilov</sharif>
+        <education>
+            <nomi>TATU</nomi>
+        <facultet>Economics</facultet>
+        </education>
+        </user>
+    </friend>
 </user>
